@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_Traphouse'
-repository 'https://github.com/0error-scripts/aicore_traphouse'
+repository 'https://github.com/aicore-fivem/aicore_traphouse'
 version '2.0.0'
 
 shared_scripts {
